@@ -6,7 +6,7 @@ The project aims at creating a book recommendation system based on three approac
 - Collaborative filtering, recommending books based on the assumption that users will like products that are consumed by other users with similar taste.
 
 ## Data
-Book Genome Dataset: The dataset contains 9,374 books, 6,815,898 tag genome scores and 5,152,656 user ratings associated with these books. The original dataset can be viewed and downloaded [here] (https://grouplens.org/datasets/book-genome/).
+Book Genome Dataset: The dataset contains 9,374 books, 6,815,898 tag genome scores and 5,152,656 user ratings associated with these books. The original dataset can be viewed and downloaded [here](https://grouplens.org/datasets/book-genome/).
 ## Repository Overview
 
 
